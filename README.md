@@ -10,4 +10,6 @@ I am creating my own personal website using Django, HTML5, and Bootstrap
 
 ## Work Left
 1. details.html
-2. 
+2. Contact Me Form
+3. About Me Page
+4. Final style touches
